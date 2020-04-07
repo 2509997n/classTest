@@ -8,22 +8,24 @@
       <change afterPath="$PROJECT_DIR$/mysite/mysite/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysite/mysite/.idea/mysite.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysite/mysite/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/db.sqlite3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/migrations/0001_initial.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/newsApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/newsApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/newsApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/newsApp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/newsApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/newsApp/admin.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/newsApp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/newsApp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/newsApp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/newsApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/newsApp/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/newsApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,10 +89,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586272100964" />
-    <state x="1052" y="116" key="CommitChangelistDialog2" timestamp="1586276156031">
+    <state x="1052" y="116" key="CommitChangelistDialog2" timestamp="1586276429432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586276156031" />
+    <state x="1052" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586276429432" />
     <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586276039733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
