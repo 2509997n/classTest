@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/newsApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/newsApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/mysite/wsgi.py" afterDir="false" />
@@ -78,17 +79,18 @@
     <MESSAGE value="first commit (test)" />
     <MESSAGE value="updated INSTALLED_APPS[] in settings.py" />
     <MESSAGE value="changed project to working version" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed project to working version" />
+    <MESSAGE value="removed spaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed spaces" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1586272100964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586272100964" />
-    <state x="1052" y="116" key="CommitChangelistDialog2" timestamp="1586275954352">
+    <state x="1052" y="116" key="CommitChangelistDialog2" timestamp="1586276156031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586275954352" />
+    <state x="1052" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586276156031" />
     <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586276039733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
